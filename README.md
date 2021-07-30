@@ -1,4 +1,4 @@
-# Shart-attacks
+# Shark-attacks
 This is my own project for fun! The project is not finished yet. 
 
 It appears that quantity of women whos swimming event ended fatally is higher then mens. 
